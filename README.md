@@ -36,3 +36,4 @@ I am a Front End Web Developer Jr From México <img src="https://media.giphy.com
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=Jaramill0
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jaramill0&theme=dark&background=000000)](https://git.io/streak-stats)
