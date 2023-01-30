@@ -45,6 +45,6 @@ I am Front End Web Developer Jr From México <img src="https://media.giphy.com/m
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jaramill0&theme=dark)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaramill0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaramill0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaramill0)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
