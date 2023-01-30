@@ -20,8 +20,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <div>
-  <a href="https://komarev.com/ghpvc/?username=Jaramill0"
-     <img src="https://komarev.com/ghpvc/?username=Jaramill0&style=flat-square&color=blue" alt=""/>
-  </div>
+</div>
+<div align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw2g2Zp7wIaKCkIQZBKrfZcL&ust=1675203618067000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDLtPap8PwCFQAAAAAdAAAAABAE" width="600" height="300"/>
 </div>
