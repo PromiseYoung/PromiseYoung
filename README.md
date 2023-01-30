@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development, digital creation design
 - 💞️ I’m looking to collaborate on in web development projects, with technologies such as Laravel PHP, ReactJs and .Net C#
 - 📫 How to reach me contact and mail: hugo98jaramillo@gmail.com
-- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 <div id="badges" align="center">
@@ -24,8 +24,7 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 </div>
----
-
+-
 <div align="center">
 I am Front End Web Developer Jr From México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 <div>
@@ -44,4 +43,4 @@ I am Front End Web Developer Jr From México <img src="https://media.giphy.com/m
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jaramill0)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaramill0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+ </div>
