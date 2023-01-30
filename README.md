@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitch.tv/theyoung7">
-    <img src="[https://img.shields.io/twitch/status/theyoung7?style=social](https://img.shields.io/twitch/status/theyoung7?label=TheYoung&logo=twitch&logoColor=purple&style=social)" alt="Twitch Badge"/>
+    <img src="https://img.shields.io/twitch/status/theyoung7?label=TheYoung&logo=twitch&logoColor=purple&style=social" alt="Twitch Badge"/>
   </a>
 <h1>
   hey there
