@@ -16,7 +16,6 @@
   <a href="https://www.twitch.tv/theyoung7">
     <img src="https://img.shields.io/twitch/status/theyoung7?style=social" alt="Twitch Badge"/>
   </a>
-</div>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
