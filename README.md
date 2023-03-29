@@ -50,5 +50,5 @@ I am Full Stack Web Developer Jr From México <img src="https://media.giphy.com/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaramill0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaramill0)](https://github.com/anuraghazra/github-readme-stats) 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jaramill0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jaramill0&theme=onedark)](https://github-profile-trophy.vercel.app/?username=Jaramill0&row=2&column=3) 
 </div>
