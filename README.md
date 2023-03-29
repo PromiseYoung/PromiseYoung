@@ -25,7 +25,7 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 </div>
----
+
 <div align="center">
 I am Full Stack Web Developer Jr From México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 <div>
