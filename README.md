@@ -5,7 +5,7 @@
 - 📫 How to reach me contact and mail: hugo98jaramillo@gmail.com.
 - 👌 Check out my github profile and contact me for professional projects.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6" width="100"/>
   </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/inghugojaramillo/">
