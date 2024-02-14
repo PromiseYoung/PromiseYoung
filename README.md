@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jaramill0
-- 👀 I’m interested in Front-end web developer & Enginner in Information and Comunnitacion Technologies.
-- 🌱 I’m currently learning web development, digital creation design
-- 💞️ I’m looking to collaborate on in web development projects, with technologies such as Laravel PHP, ReactJs and  C# .Net Core
-- 📫 How to reach me contact and mail: hugo98jaramillo@gmail.com
+- 👋 Hi, I’m  Ing Jaramillo
+- 👀 I’m interested in Web Developer & Enginner in Information and Comunnitacion Technologies.
+- 🌱 I’m currently learning web development, digital creation design.
+- 💞️ I’m looking to collaborate on in web development projects and Applications Desktop, with technologies such as Laravel PHP, ReactJS, NodeJS and  C# Net Core.
+- 📫 How to reach me contact and mail: hugo98jaramillo@gmail.com.
 - 👌 Check out my github profile and contact me for professional projects.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-I am Full Stack Web Developer Jr From México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
+I am Web Developer From México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="45" height="45"/>&nbsp;
