@@ -49,7 +49,7 @@ I am Web Developer From México <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaramill0&repo=github-readme-stats)](https://github.com/Jaramill0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaramill0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaramill0)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
