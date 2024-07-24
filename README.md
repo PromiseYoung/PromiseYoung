@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Ing Jaramillo
 - 👀 I’m interested in Web Developer & Enginner in Information and Comunnitacion Technologies.
 - 🌱 I’m currently learning web development, digital creation design.
-- 💞️ I’m looking to collaborate on in web development projects and Applications Desktop, with technologies such as Laravel PHP, ReactJS, NodeJS and  C# Net Core.
+- 💞️ I’m looking to collaborate on in web development projects and Applications Desktop, with technologies such as Laravel PHP, ReactJS, NodeJS.
 - 📫 How to reach me contact and mail: hugo98jaramillo@gmail.com.
 - 👌 Check out my github profile and contact me for professional projects.
 <div id="header" align="center">
