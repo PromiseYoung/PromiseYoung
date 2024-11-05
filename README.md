@@ -17,23 +17,23 @@ I am a **Web Developer** and **Engineer in Information and Communication Technol
 I work with a range of technologies and tools, including:
 
 #### Frontend:
-- ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) **React**
-- ![AngularJS](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg) **AngularJS**
-- ![Material UI](https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg) **Material UI**
-- ![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg) **Sass**
-- ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) **HTML5**
-- ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) **JavaScript**
-- ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) **TypeScript**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="25" height="25"/> **React**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" width="25" height="25"/> **AngularJS**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="25" height="25"/> **Material UI**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="25" height="25"/> **Sass**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/> **HTML5**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/> **JavaScript**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/> **TypeScript**
 
 #### Backend:
-- ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg) **PHP**
-- ![Laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg) **Laravel**
-- ![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
-- ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) **MySQL**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="25" height="25"/> **PHP**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="25" height="25"/> **Laravel**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="25" height="25"/> **Node.js**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/> **MySQL**
 
 #### Tools:
-- ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) **VSCode**
-- ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) **Git**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="25" height="25"/> **VSCode**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="25" height="25"/> **Git**
 
 ---
 
@@ -112,4 +112,3 @@ I’m always open to working on web development and desktop application projects
 ---
 
 Feel free to explore my repositories and see what I am up to! 🚀
-
