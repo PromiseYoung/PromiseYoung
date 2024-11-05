@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ing. Hugo Jaramillo
 
-I am a **Web Developer** and an **Engineer in Information and Communication Technologies** from **México**. Passionate about creating dynamic web applications, digital creations, and designing high-performance systems.
+I am a **Web Developer** and **Engineer in Information and Communication Technologies** from **México**. Passionate about creating dynamic web applications and designing high-performance systems.
 
 - **🔭 I’m currently working on**: Web Development and Digital Creation Design.
 - **🌱 I’m currently learning**: Advanced web development technologies like ReactJS, NodeJS, and Laravel PHP.
@@ -8,13 +8,13 @@ I am a **Web Developer** and an **Engineer in Information and Communication Tech
 - **📫 How to reach me**:  
   Email: [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)  
   LinkedIn: [@inghugojaramillo](https://www.linkedin.com/in/inghugojaramillo/)
-- **👨‍💻 You can check out my GitHub and explore some of my projects.**
+- **👨‍💻 Feel free to check out my GitHub profile and explore some of my projects.**
 
 ---
 
 ### 🔧 Technologies & Tools:
 
-I work with a wide range of technologies and tools. Below is a list of the main ones:
+I work with a range of technologies and tools, including:
 
 #### Frontend:
 - ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) **React**
@@ -46,9 +46,9 @@ I work with a wide range of technologies and tools. Below is a list of the main 
 ---
 
 ### 🎯 Current Goals:
-- Complete a few **web projects** with Laravel and React.
-- Master **backend architecture** and **performance optimization**.
-- Dive deeper into **cloud computing** and **DevOps** practices.
+- Build more **web applications** using **Laravel** and **React**.
+- Master **backend architecture** and **optimization**.
+- Explore **cloud technologies** and **DevOps** practices.
 
 ---
 
