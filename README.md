@@ -1,56 +1,115 @@
-- 👋 Hi, I’m  Ing Jaramillo
-- 👀 I’m interested in Web Developer & Enginner in Information and Comunnitacion Technologies.
-- 🌱 I’m currently learning web development, digital creation design.
-- 💞️ I’m looking to collaborate on in web development projects and Applications Desktop, with technologies such as Laravel PHP, ReactJS, NodeJS.
-- 📫 How to reach me contact and mail: hugoenri1009@hotmail.com
-- 👌 Check out my github profile and contact me for professional projects.
-<div id="header" align="center">
-  <img href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6" width="100"/>
-  </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/inghugojaramillo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCMzYf5QBRcezn1h6tLeMg5Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.twitch.tv/theyoung7">
-    <img src="https://img.shields.io/twitch/status/theyoung7?label=TheYoung&logo=twitch&logoColor=purple&style=social" alt="Twitch Badge"/>
-  </a>
-<h1>
-  hey there !
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-</div>
+# 👋 Hello, I'm Ing. Hugo Jaramillo
 
-<div align="center">
-I am Web Developer From México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
-  <br/><br/><br/>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="angularjs" alt="angularjs" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="45" height="45"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="Laravel" alt="Laravel" width="45" height="45" />
+I am a **Web Developer** and an **Engineer in Information and Communication Technologies** from **México**. Passionate about creating dynamic web applications, digital creations, and designing high-performance systems.
 
-</div>
-
-### :fire: My Stats :
+- **🔭 I’m currently working on**: Web Development and Digital Creation Design.
+- **🌱 I’m currently learning**: Advanced web development technologies like ReactJS, NodeJS, and Laravel PHP.
+- **💬 Ask me about**: Laravel, React, NodeJS, MySQL, and more!
+- **📫 How to reach me**:  
+  Email: [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)  
+  LinkedIn: [@inghugojaramillo](https://www.linkedin.com/in/inghugojaramillo/)
+- **👨‍💻 You can check out my GitHub and explore some of my projects.**
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaramill0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaramill0)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jaramill0&theme=dark)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jaramill0)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
+### 🔧 Technologies & Tools:
+
+I work with a wide range of technologies and tools. Below is a list of the main ones:
+
+#### Frontend:
+- ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) **React**
+- ![AngularJS](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg) **AngularJS**
+- ![Material UI](https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg) **Material UI**
+- ![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg) **Sass**
+- ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) **HTML5**
+- ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) **JavaScript**
+- ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) **TypeScript**
+
+#### Backend:
+- ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg) **PHP**
+- ![Laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg) **Laravel**
+- ![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
+- ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) **MySQL**
+
+#### Tools:
+- ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) **VSCode**
+- ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) **Git**
+
+---
+
+### 🌱 I’m continuously learning:
+- **Web Application Security**
+- **Advanced JavaScript (React + Node.js)**
+- **UI/UX Design Principles**
+- **Database Optimization & Performance**
+
+---
+
+### 🎯 Current Goals:
+- Complete a few **web projects** with Laravel and React.
+- Master **backend architecture** and **performance optimization**.
+- Dive deeper into **cloud computing** and **DevOps** practices.
+
+---
+
+### 📊 GitHub Stats:
+
+![Hugo Jaramillo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaramill0&show_icons=true&theme=dark)
+
+---
+
+### 🏆 My GitHub Trophy Collection:
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Jaramill0&theme=onedark&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🌟 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/inghugojaramillo/)
+- [YouTube](https://www.youtube.com/channel/UCMzYf5QBRcezn1h6tLeMg5Q)
+- [Twitch](https://www.twitch.tv/theyoung7)
+
+---
+
+### 💡 Fun Fact:
+I love solving complex problems and transforming them into simple, elegant solutions. Outside of coding, I enjoy playing video games and streaming on [Twitch](https://www.twitch.tv/theyoung7)!
+
+---
+
+### 🎬 Here's a glimpse of my journey as a developer:
+
+![Developer Journey](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+
+---
+
+### 🖥️ I'm currently building:
+
+- **A complete ticket management system** using Laravel and ReactJS
+- **A personal portfolio website** to showcase my projects
+
+---
+
+### 🙏 Let's Collaborate!
+
+I’m always open to working on web development and desktop application projects. If you have a project in mind, feel free to reach out, and we can create something amazing together!
+
+---
+
+#### 📫 Contact me via email:
+- **Email**: [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)
+
+---
+
+### 🚀 Let's build something great together!
+
+---
+
+#### 👨‍💻 Some of my work:
+- [Portfolio](https://github.com/Jaramill0)
+- [Web Projects](https://github.com/Jaramill0)
+
+---
+
+Feel free to explore my repositories and see what I am up to! 🚀
+
