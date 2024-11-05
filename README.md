@@ -96,11 +96,6 @@ I’m always open to working on web development and desktop application projects
 
 ---
 
-#### 📫 Contact me via email:
-- **Email**: [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)
-
----
-
 ### 🚀 Let's build something great together!
 
 ---
