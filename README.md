@@ -3,7 +3,7 @@
 I am a **Web Developer** and **Engineer in Information and Communication Technologies** from **México**. Passionate about creating dynamic web applications and designing high-performance systems.
 
 - **🔭 I’m currently working on**: Web Development and Digital Creation Design.
-- **🌱 I’m currently learning**: Advanced web development technologies like ReactJS, NodeJS, and Laravel PHP.
+- **🌱 I’m currently learning**: Advanced web development technologies like ReactJS, AngularJS, NodeJS, and Laravel PHP.
 - **💬 Ask me about**: Laravel, React, NodeJS, MySQL, and more!
 - **📫 How to reach me**:  
   Email: [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)  
