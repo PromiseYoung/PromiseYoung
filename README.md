@@ -58,12 +58,6 @@ I work with a range of technologies and tools, including:
 
 ---
 
-### 🏆 My GitHub Trophy Collection:
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Jaramill0&theme=onedark&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🌟 Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/inghugojaramillo/)
