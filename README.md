@@ -61,9 +61,6 @@ I work with a range of technologies and tools, including:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="40%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromiseYoung&theme=dark" width="80%" />
-</div>
 ---
 
 ### 🌟 Connect with Me:
