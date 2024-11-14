@@ -62,8 +62,7 @@ I work with a range of technologies and tools, including:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="40%" />
 </div>
 
-![Hugo Jaramillo's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=PromiseYoung&theme=dark)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PromiseYoung)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🌟 Connect with Me:
