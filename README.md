@@ -56,6 +56,8 @@ I work with a range of technologies and tools, including:
 
 ![Hugo Jaramillo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact)
+
 ---
 
 ### 🌟 Connect with Me:
