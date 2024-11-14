@@ -57,12 +57,12 @@ I work with a range of technologies and tools, including:
 <div align="center">
   <!-- GitHub Stats (con íconos) -->
   <img src="https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark" alt="Hugo Jaramillo's GitHub Stats" width="40%" />
-
   <!-- Top Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="40%" />
+  <!-- Wakatime-->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PromiseYoung&show_icons=true&theme=dark)" alt="Top Langs" width="40%" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PromiseYoung)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🌟 Connect with Me:
