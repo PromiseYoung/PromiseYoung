@@ -55,8 +55,8 @@ I work with a range of technologies and tools, including:
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark" alt="Hugo Jaramillo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark" alt="Hugo Jaramillo's GitHub Stats" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="40%" />
 </div>
 
 ---
