@@ -55,9 +55,16 @@ I work with a range of technologies and tools, including:
 ### 📊 GitHub Stats:
 
 <div align="center">
+  <!-- GitHub Stats (con íconos) -->
   <img src="https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark" alt="Hugo Jaramillo's GitHub Stats" width="40%" />
+
+  <!-- Top Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="40%" />
-  ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=PromiseYoung&theme=dark)
+</div>
+
+<div align="center">
+  <!-- GitHub Streak Stats (contribuciones diarias) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromiseYoung&theme=dark" alt="GitHub Streak Stats" width="80%" />
 </div>
 
 ---
