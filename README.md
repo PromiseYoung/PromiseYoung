@@ -54,7 +54,7 @@ I work with a range of technologies and tools, including:
 
 ### 📊 GitHub Stats:
 
-![Hugo Jaramillo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaramill0&show_icons=true&theme=dark)
+![Hugo Jaramillo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark)
 
 ---
 
