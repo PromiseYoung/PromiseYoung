@@ -54,8 +54,6 @@ I work with a range of technologies and tools, including:
 
 ### 📊 GitHub Stats:
 
-<hr>
-
 <div align="center">
 <h2 align="center">💻 Top Language & Commit stats 💻</h2>
 <br>
