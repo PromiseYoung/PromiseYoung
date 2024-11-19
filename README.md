@@ -54,11 +54,21 @@ I work with a range of technologies and tools, including:
 
 ### 📊 GitHub Stats:
 
+<hr>
+
 <div align="center">
-  <!-- GitHub Stats (con íconos) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PromiseYoung&show_icons=true&theme=dark" alt="Hugo Jaramillo's GitHub Stats" width="40%" />
-  <!-- Top Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiseYoung&theme=dark&layout=compact" alt="Top Langs" width="40%" />
+<h2 align="center">💻 Top Language & Commit stats 💻</h2>
+<br>
+
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PromiseYoung&theme=dark)
+  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PromiseYoung&theme=dark)
+</div>
+
+<div align="center">
+<br>
+
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PromiseYoung&theme=dark)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PromiseYoung&theme=dark&utcOffset=8)
 </div>
 
 ---
