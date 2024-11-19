@@ -54,6 +54,14 @@ I work with a range of technologies and tools, including:
 
 ### 📊 GitHub Stats:
 
+---
+<div align="center">
+<h2 align="center">⚡ My Stats ⚡</h2>
+<br>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PromiseYoung&theme=dark)](https://git.io/streak-stats)
+</div>
+
 <div align="center">
 <h2 align="center">💻 Top Language & Commit stats 💻</h2>
 <br>
