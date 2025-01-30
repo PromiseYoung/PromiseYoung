@@ -59,7 +59,7 @@ I work with a range of technologies and tools, including:
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=PromiseYoung)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=PromiseYoung&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
