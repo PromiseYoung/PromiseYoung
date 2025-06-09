@@ -39,7 +39,7 @@ Soy **Desarrollador Web** y **Ingeniero en Tecnologías de la Información y Com
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/><br>Laravel
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel.svg" width="40" height="40" alt="Laravel"/><br>Laravel
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br>Node.js
