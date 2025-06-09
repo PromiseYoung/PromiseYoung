@@ -1,124 +1,109 @@
-# 👋 Hello, I'm Ing. Hugo Jaramillo
+# 👋 ¡Hola! Soy Ing. Hugo Jaramillo
 
-I am a **Web Developer** and **Engineer in Information and Communication Technologies** from **México**. Passionate about creating dynamic web applications and designing high-performance systems.
+Soy **Desarrollador Web** y **Ingeniero en Tecnologías de la Información y Comunicación** de **México**, apasionado por crear aplicaciones web dinámicas y diseñar sistemas de alto rendimiento.
 
-- **🔭 I’m currently working on**: Web Development and Digital Creation Design.
-- **🌱 I’m currently learning**: Advanced web development technologies like ReactJS, AngularJS, NodeJS, and Laravel PHP.
-- **💬 Ask me about**: Laravel, React, NodeJS, MySQL, and more!
-- **📫 How to reach me**:  
-  Email: [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)  
-  LinkedIn: [@inghugojaramillo](https://www.linkedin.com/in/inghugojaramillo/)
-- **👨‍💻 Feel free to check out my GitHub profile and explore some of my projects.**
-
----
-
-### 🔧 Technologies & Tools:
-
-I work with a range of technologies and tools, including:
-
-#### Frontend:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="25" height="25"/> **React**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" width="25" height="25"/> **AngularJS**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="25" height="25"/> **Material UI**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="25" height="25"/> **Sass**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/> **HTML5**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/> **JavaScript**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/> **TypeScript**
-
-#### Backend:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="25" height="25"/> **PHP**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="25" height="25"/> **Laravel**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="25" height="25"/> **Node.js**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/> **MySQL**
-
-#### Tools:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="25" height="25"/> **VSCode**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="25" height="25"/> **Git**
+- 🔭 **Actualmente trabajando en**: Desarrollo Web y Diseño Digital.
+- 🌱 **Aprendiendo**: Tecnologías avanzadas como ReactJS, AngularJS, NodeJS y Laravel PHP.
+- 💬 **Pregúntame sobre**: Laravel, React, NodeJS, MySQL y más.
+- 📫 **Contáctame**:  
+  ✉️ [hugoenri1009@hotmail.com](mailto:hugoenri1009@hotmail.com)  
+  🔗 [LinkedIn: @inghugojaramillo](https://www.linkedin.com/in/inghugojaramillo/)
+- 👨‍💻 **Explora mi GitHub** y descubre mis proyectos.
 
 ---
 
-### 🌱 I’m continuously learning:
-- **Web Application Security**
-- **Advanced JavaScript (React + Node.js)**
-- **UI/UX Design Principles**
-- **Database Optimization & Performance**
+## 🛠️ Tecnologías y Herramientas:
+
+### Frontend:
+- ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) **React**
+- ![AngularJS](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg) **AngularJS**
+- ![Material UI](https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg) **Material UI**
+- ![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg) **Sass**
+- ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) **HTML5**
+- ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) **JavaScript**
+- ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) **TypeScript**
+
+### Backend:
+- ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg) **PHP**
+- ![Laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg) **Laravel**
+- ![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
+- ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) **MySQL**
+
+### Herramientas:
+- ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) **VSCode**
+- ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) **Git**
 
 ---
 
-### 🎯 Current Goals:
-- Build more **web applications** using **Laravel** and **React**.
-- Master **backend architecture** and **optimization**.
-- Explore **cloud technologies** and **DevOps** practices.
+## 🌱 Siempre aprendiendo:
+- Seguridad en aplicaciones web.
+- Desarrollo avanzado con React y Node.js.
+- Principios de diseño UI/UX.
+- Optimización y rendimiento de bases de datos.
 
 ---
 
-### 📊 GitHub Stats:
+## 🎯 Metas Actuales:
+- Construir más aplicaciones web con **Laravel** y **React**.
+- Dominar la arquitectura y optimización del backend.
+- Explorar tecnologías en la nube y prácticas de **DevOps**.
 
 ---
-<div align="center">
-<h2 align="center">⚡ My Stats ⚡</h2>
-<br>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=PromiseYoung&theme=dark)](https://git.io/streak-stats)
-</div>
+## 📊 Estadísticas de GitHub:
 
 <div align="center">
-<h2 align="center">💻 Top Language & Commit stats 💻</h2>
-<br>
+  
+  ### ⚡ Mis estadísticas ⚡
 
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PromiseYoung&theme=dark)
-  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PromiseYoung&theme=dark)
-</div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=PromiseYoung&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
-<br>
+  ![Repos por lenguaje](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PromiseYoung&theme=dark)
+  ![Lenguaje más usado](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PromiseYoung&theme=dark)
+  ![Estadísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PromiseYoung&theme=dark)
+  ![Productividad](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PromiseYoung&theme=dark&utcOffset=8)
 
-  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PromiseYoung&theme=dark)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PromiseYoung&theme=dark&utcOffset=8)
 </div>
 
 ---
 
-### 🌟 Connect with Me:
-
+## 🌟 Conéctate conmigo:
 - [LinkedIn](https://www.linkedin.com/in/inghugojaramillo/)
 - [YouTube](https://www.youtube.com/channel/UCMzYf5QBRcezn1h6tLeMg5Q)
 - [Twitch](https://www.twitch.tv/theyoung7)
 
 ---
 
-### 💡 Fun Fact:
-I love solving complex problems and transforming them into simple, elegant solutions. Outside of coding, I enjoy playing video games and streaming on [Twitch](https://www.twitch.tv/theyoung7)!
+## 💡 Curiosidades:
+Me encanta resolver problemas complejos y transformarlos en soluciones simples y elegantes. Además de programar, disfruto de los videojuegos y de transmitir en [Twitch](https://www.twitch.tv/theyoung7).
 
 ---
 
-### 🎬 Here's a glimpse of my journey as a developer:
+## 🎬 Un vistazo a mi camino como desarrollador:
 
 ![Developer Journey](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 ---
 
-### 🖥️ I'm currently building:
-
-- **A complete ticket management system** using Laravel and ReactJS
-- **A personal portfolio website** to showcase my projects
-
----
-
-### 🙏 Let's Collaborate!
-
-I’m always open to working on web development and desktop application projects. If you have a project in mind, feel free to reach out, and we can create something amazing together!
+## 🖥️ Actualmente desarrollando:
+- Un sistema completo de gestión de tickets con **Laravel** y **ReactJS**.
+- Un sitio web personal para mostrar mis proyectos.
 
 ---
 
-### 🚀 Let's build something great together!
+## 🤝 ¡Colaboremos!
+Siempre estoy abierto a colaborar en proyectos de desarrollo web y aplicaciones de escritorio. Si tienes una idea en mente, ¡contáctame y construyamos algo asombroso juntos!
 
 ---
 
-#### 👨‍💻 Some of my work:
-- [Portfolio](https://theyoungdev.netlify.app/)
-- [Web Projects](https://github.com/PromiseYoung)
+## 🚀 ¡Vamos a construir algo increíble!
 
 ---
 
-Feel free to explore my repositories and see what I am up to! 🚀
+### 👨‍💻 Algunos de mis trabajos:
+- [Portafolio](https://theyoungdev.netlify.app/)
+- [Proyectos Web](https://github.com/PromiseYoung)
+
+---
+
+¡Explora mis repositorios y descubre todo lo que estoy construyendo! 🚀
