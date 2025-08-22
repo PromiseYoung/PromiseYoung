@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ing. Hugo Jaramillo
 
-Soy **Desarrollador Web** y **Ingeniero en Tecnologías de la Información y Comunicación** de **México**, apasionado por crear aplicaciones web dinámicas y diseñar sistemas de alto rendimiento.
+Soy **Desarrollador Web** e **Ingeniero en Tecnologías de la Información y Comunicación** de **México**, apasionado por crear aplicaciones web dinámicas y diseñar sistemas de alto rendimiento.
 
 ---
 
